@@ -2,6 +2,7 @@
 - 👀 I’m interested in developing collaborative software solutions to community problems. 
 - 🌱 I’m currently learning .NET 6 and .NET 7
 - 💞️ I’m looking to collaborate on queer issues, trans issues, cool software
+- 📘 Currently writing a book...
 - 📫 noelcket@gmail.com
 
 <!---
