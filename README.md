@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anoelcke - Queer 🏳️‍🌈 - Trans 🏳️‍⚧️ - Neurodiverget - Software Professional 💻
 - 👀 I’m interested in developing collaborative software solutions to community problems. 
-- 🌱 I’m currently learning .NET 6 and .NET 7
+- 🌱 I’m currently learning AI development tools
 - 💞️ I’m looking to collaborate on queer issues, trans issues, cool software
 - 📘 Currently writing a book...
 - 📫 noelcket@gmail.com
